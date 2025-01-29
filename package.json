@@ -2,9 +2,9 @@
   "name": "Golden-Queen-MD",
   "version": "1.0.0",
   "description": "hey this is Golden Queen MD whatsapp bot",
-  "main": "LICENCE",
+  "main": "LICENSE",
   "scripts": {
-          "start": "pm2 start LICENCE --deep-monitoring --attach --name GoldenQueenMD",
+          "start": "pm2 start LICENSE --deep-monitoring --attach --name GoldenQueenMD",
     "stop": "pm2 stop GoldenQueenMD",
     "restart": "pm2 restart GoldenQueenMD"
   },
